@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/roboflow_updated_dataset/train/images
+val: /content/drive/MyDrive/roboflow_updated_dataset/val/images
+test: /content/drive/MyDrive/roboflow_updated_dataset/test/images
+nc: 2
+names: ['head', 'helmet']
